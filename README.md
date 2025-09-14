@@ -20,7 +20,7 @@ Celem projektu jest przeprowadzenie benchmarku klasyfikacji danych medycznych na
 1. Sklonuj repozytorium:
 
     ```bash
-    git clone https://github.com/TwojeRepozytorium/Brain_Tumor_Team_Projekt4.git
+    git clone https://github.com/JanBubinski/Brain_Tumor_Team_Projekt4.git
     ```
 
 2. Zainstaluj wymagane biblioteki w virtualnym środowisku:
