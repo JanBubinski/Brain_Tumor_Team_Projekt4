@@ -20,7 +20,7 @@ Celem projektu jest przeprowadzenie benchmarku klasyfikacji danych medycznych na
 1. Sklonuj repozytorium:
 
     ```bash
-    git clone https://github.com/TwojeRepozytorium/Brain_Tumor_Team_Projekt4.git
+    git clone https://github.com/JanBubinski/Brain_Tumor_Team_Projekt4.git
     ```
 
 2. Zainstaluj wymagane biblioteki w virtualnym środowisku:
@@ -45,4 +45,4 @@ Celem projektu jest przeprowadzenie benchmarku klasyfikacji danych medycznych na
 
 ## Licencja
 
-Projekt jest dostępny na licencji MIT. Szczegóły znajdują się w pliku `LICENSE`.
+Projekt jest dostępny na licencji Apache 2.0. Szczegóły znajdują się w pliku `LICENSE`.
