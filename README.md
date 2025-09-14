@@ -45,4 +45,4 @@ Celem projektu jest przeprowadzenie benchmarku klasyfikacji danych medycznych na
 
 ## Licencja
 
-Projekt jest dostępny na licencji MIT. Szczegóły znajdują się w pliku `LICENSE`.
+Projekt jest dostępny na licencji Apache 2.0. Szczegóły znajdują się w pliku `LICENSE`.
