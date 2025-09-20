@@ -8,4 +8,11 @@ dependencies = [
     "torch>=2.8.0",
     "matplotlib>=3.10.0",
     "jupyter>=1.1.1",
+    "pandas>=2.3.2",
+    "tensorflow>=2.20.0",
+    "kaggle>=1.7.4.5",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "torchvision>=0.23.0",
+    "grad-cam>=1.5.5",
 ]
